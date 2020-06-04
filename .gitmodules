@@ -1,0 +1,4 @@
+[submodule "ChibiOS/chibios203"]
+	path = ChibiOS/chibios203
+	url = git@github.com:ChibiOS/ChibiOS.git
+	branch = stable_20.3.x
